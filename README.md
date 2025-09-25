@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @adamfilip1
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning on tryhackme and Unicorn University
-
-<!---
-adamfilip1/adamfilip1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Adam Filip
+- 🎓 Soon-to-be Bc. in Software Engineering (Unicorn University, Prague)
+- 🔒 Aspiring Cybersecurity Analyst | Active on TryHackMe
+- 💻 Skills: Python, Linux, Networking, React, C basics
+- 🌍 Currently on Erasmus at EPITA (Paris), focusing on C & Security
+- 🚀 Not only school projects
+- 🎨 Adobe Certified in Photoshop & Illustrator
