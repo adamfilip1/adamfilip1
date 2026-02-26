@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adam Filip
 - 🎓 Soon-to-be Bc. in Software Engineering (Unicorn University, Prague)
-- 🔒 Aspiring Cybersecurity Analyst | Active on TryHackMe
 - 💻 Skills: Python, Linux, Networking, React, C basics
 - 🌍 Currently on Erasmus at EPITA (Paris), focusing on C & Security
 - 🚀 Not only school projects
